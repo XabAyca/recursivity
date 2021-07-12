@@ -1,4 +1,4 @@
-![recursivity](img_recursive.png)
+![recursivity](img_recursive.jpeg)
 # Exercises: Introduction to Recursivity
 1. Introduction
 Dans cette journée, tu vas apprendre à utiliser le principe de récursivité. Ce dernier te sera très utile pour réaliser les prochains objectifs de la semaine.
