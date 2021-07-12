@@ -12,7 +12,7 @@ const isPrimeNumber = (n,x=n-1) => {
     return isPrimeNumber(n,x-1)
   }
 }
-console.log(isPrimeNumber(12))
+console.log(isPrimeNumber(11))
 
 // Tu es toujours là ? Félicitations, on va voir comment tu t'en sors sur celui-là. Maintenant que tu sais détecter si un nombre est premier ou non, tu vas devoir écrire une fonction qui va retourner le plus petit nombre premier supérieur ou égal à n.
 const findSupPrime = (n) => {

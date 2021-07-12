@@ -2,3 +2,5 @@
 const countValidQueens = (n) => {
   
 }
+
+console.log(countValidQueens(16)) 
