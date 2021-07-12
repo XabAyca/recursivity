@@ -38,5 +38,5 @@ Tu es toujours là ? Félicitations, on va voir comment tu t'en sors sur celui-l
    
 C'est tout (et déjà pas mal) pour aujourd'hui ! Maintenant que tu sais utiliser la récursivité, on va pouvoir s'amuser un peu les prochains jours avec des algorithmes de tri. À demain !
 
-### Exercice bonus pour les big boss - script_04.js
+### Exercice bonus pour les big boss - script_05.js
 Si tu as fini la journée, qu'il te reste du temps et que tu te sens en forme, alors voici un dernier exercice. Écris une fonction qui retourne le nombre de possibilités de placer n reines sur un échiquier de taille nxn sans qu'elles soient capables de se manger entre elles en un seul mouvement.
