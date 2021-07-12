@@ -1,6 +1,8 @@
 // Écris une fonction itérative qui retourne son premier argument à la puissance p, où p est le second argument. En cas d'erreur, la fonction doit retourner 0.
 const computePowerIt = (n, p) => {
-  if(n===0 || p===0){
+  if(n===0){
+    return 0
+  }else if(p===1){
     return 1
   }else{
     let result = 1
@@ -11,7 +13,7 @@ const computePowerIt = (n, p) => {
     // return n**p
   }
 }
-console.log(computePowerIt(5,5))
+console.log(computePowerIt(3,0))
 
 // Même exercice (et oui, encore...) en utilisant la récursivité !
 const computePowerRec = (n, p) => {
